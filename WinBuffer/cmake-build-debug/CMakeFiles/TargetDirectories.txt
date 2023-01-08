@@ -1,0 +1,3 @@
+D:/Important catalog/Projects/C++/OS/OS_LAB_13/WinBuffer/cmake-build-debug/CMakeFiles/WinBuffer.dir
+D:/Important catalog/Projects/C++/OS/OS_LAB_13/WinBuffer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Important catalog/Projects/C++/OS/OS_LAB_13/WinBuffer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

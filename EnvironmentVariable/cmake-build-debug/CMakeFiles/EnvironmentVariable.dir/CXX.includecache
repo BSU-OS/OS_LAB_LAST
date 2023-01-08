@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Important catalog/Projects/C++/OS/OS_LAB_13/EnvironmentVariable/main.cpp
+windows.h
+-
+iostream
+-
+string
+-
+

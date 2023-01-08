@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Important catalog/Projects/C++/OS/OS_LAB_13/FilesOfMemory/A/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+
