@@ -9,15 +9,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07777ceb-8206-4fc0-886e-09831ad0a216" name="Changes" comment="add all">
+    <list default="true" id="07777ceb-8206-4fc0-886e-09831ad0a216" name="Changes" comment="add Message Queue">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IPC Types.docx" beforeDir="false" afterPath="$PROJECT_DIR$/IPC Types.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
@@ -44,13 +44,6 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,6 +56,8 @@
       <workItem from="1673200172029" duration="119000" />
       <workItem from="1673200295168" duration="9000" />
       <workItem from="1673200399267" duration="729000" />
+      <workItem from="1673552075828" duration="253000" />
+      <workItem from="1673552356775" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="add all">
       <created>1673200222668</created>
@@ -71,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673200222668</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Message Queue">
+      <created>1673552173114</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673552173114</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +96,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="add all" />
-    <option name="LAST_COMMIT_MESSAGE" value="add all" />
+    <MESSAGE value="add Message Queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Message Queue" />
   </component>
 </project>
