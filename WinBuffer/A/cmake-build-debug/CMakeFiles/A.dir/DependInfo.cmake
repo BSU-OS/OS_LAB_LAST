@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Important catalog/Projects/C++/OS/OS_LAB_13/WinBuffer/A/main.cpp" "D:/Important catalog/Projects/C++/OS/OS_LAB_13/WinBuffer/A/cmake-build-debug/CMakeFiles/A.dir/main.cpp.obj"
+  "D:/Important catalog/Projects/C++/OS/OS_LAB_LAST/WinBuffer/A/main.cpp" "D:/Important catalog/Projects/C++/OS/OS_LAB_LAST/WinBuffer/A/cmake-build-debug/CMakeFiles/A.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

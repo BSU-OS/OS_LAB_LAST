@@ -1,4 +1,4 @@
-"D:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - NMake Makefiles" "D:\Important catalog\Projects\C++\OS\OS_LAB_13\WinBuffer\B"
+"D:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - NMake Makefiles" "D:\Important catalog\Projects\C++\OS\OS_LAB_LAST\WinBuffer\B"
 -- The C compiler identification is MSVC 19.29.30133.0
 -- The CXX compiler identification is MSVC 19.29.30133.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/Important catalog/Projects/C++/OS/OS_LAB_13/WinBuffer/B/cmake-build-debug
+-- Build files have been written to: D:/Important catalog/Projects/C++/OS/OS_LAB_LAST/WinBuffer/B/cmake-build-debug

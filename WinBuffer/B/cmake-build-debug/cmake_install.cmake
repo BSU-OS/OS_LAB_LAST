@@ -1,4 +1,4 @@
-# Install script for directory: D:/Important catalog/Projects/C++/OS/OS_LAB_13/WinBuffer/B
+# Install script for directory: D:/Important catalog/Projects/C++/OS/OS_LAB_LAST/WinBuffer/B
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Important catalog/Projects/C++/OS/OS_LAB_13/WinBuffer/B/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Important catalog/Projects/C++/OS/OS_LAB_LAST/WinBuffer/B/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

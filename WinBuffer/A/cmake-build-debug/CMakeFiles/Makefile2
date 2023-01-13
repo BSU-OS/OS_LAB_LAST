@@ -43,10 +43,10 @@ RM = "D:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\Important catalog\Projects\C++\OS\OS_LAB_13\WinBuffer\A"
+CMAKE_SOURCE_DIR = "D:\Important catalog\Projects\C++\OS\OS_LAB_LAST\WinBuffer\A"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\Important catalog\Projects\C++\OS\OS_LAB_13\WinBuffer\A\cmake-build-debug"
+CMAKE_BINARY_DIR = "D:\Important catalog\Projects\C++\OS\OS_LAB_LAST\WinBuffer\A\cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -70,14 +70,14 @@ clean: CMakeFiles\A.dir\clean
 CMakeFiles\A.dir\all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\A.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\A.dir\depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\A.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\A.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\Important catalog\Projects\C++\OS\OS_LAB_13\WinBuffer\A\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target A"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\Important catalog\Projects\C++\OS\OS_LAB_LAST\WinBuffer\A\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target A"
 .PHONY : CMakeFiles\A.dir\all
 
 # Build rule for subdir invocation for target.
 CMakeFiles\A.dir\rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Important catalog\Projects\C++\OS\OS_LAB_13\WinBuffer\A\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Important catalog\Projects\C++\OS\OS_LAB_LAST\WinBuffer\A\cmake-build-debug\CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\A.dir\all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Important catalog\Projects\C++\OS\OS_LAB_13\WinBuffer\A\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Important catalog\Projects\C++\OS\OS_LAB_LAST\WinBuffer\A\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles\A.dir\rule
 
 # Convenience name for target.

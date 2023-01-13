@@ -21,7 +21,7 @@ Compilation of the C compiler identification source "CMakeCCompilerId.c" produce
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
 
-The C compiler identification is MSVC, found in "D:/Important catalog/Projects/C++/OS/OS_LAB_13/WinBuffer/A/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.exe"
+The C compiler identification is MSVC, found in "D:/Important catalog/Projects/C++/OS/OS_LAB_LAST/WinBuffer/A/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x86/cl.exe 
@@ -45,27 +45,27 @@ Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" p
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
 
-The CXX compiler identification is MSVC, found in "D:/Important catalog/Projects/C++/OS/OS_LAB_13/WinBuffer/A/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+The CXX compiler identification is MSVC, found in "D:/Important catalog/Projects/C++/OS/OS_LAB_LAST/WinBuffer/A/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.exe"
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: D:/Important catalog/Projects/C++/OS/OS_LAB_13/WinBuffer/A/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Important catalog/Projects/C++/OS/OS_LAB_LAST/WinBuffer/A/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake -f Makefile /nologo cmTC_30a82\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_30a82.dir\build.make /nologo -L                  CMakeFiles\cmTC_30a82.dir\build
-Building C object CMakeFiles/cmTC_30a82.dir/CMakeCCompilerABI.c.obj
-	"D:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_30a82.dir\CMakeCCompilerABI.c.obj.d --working-dir="D:\Important catalog\Projects\C++\OS\OS_LAB_13\WinBuffer\A\cmake-build-debug\CMakeFiles\CMakeTmp" --filter-prefix="" -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @C:\Users\user\AppData\Local\Temp\nmAF03.tmp
-Linking C executable cmTC_30a82.exe
-	"D:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_30a82.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_30a82.dir\objects1.rsp @C:\Users\user\AppData\Local\Temp\nmAF62.tmp
+Run Build Command(s):nmake -f Makefile /nologo cmTC_a8918\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_a8918.dir\build.make /nologo -L                  CMakeFiles\cmTC_a8918.dir\build
+Building C object CMakeFiles/cmTC_a8918.dir/CMakeCCompilerABI.c.obj
+	"D:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_a8918.dir\CMakeCCompilerABI.c.obj.d --working-dir="D:\Important catalog\Projects\C++\OS\OS_LAB_LAST\WinBuffer\A\cmake-build-debug\CMakeFiles\CMakeTmp" --filter-prefix="" -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @C:\Users\user\AppData\Local\Temp\nmF5FC.tmp
+Linking C executable cmTC_a8918.exe
+	"D:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_a8918.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_a8918.dir\objects1.rsp @C:\Users\user\AppData\Local\Temp\nmF755.tmp
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: D:/Important catalog/Projects/C++/OS/OS_LAB_13/WinBuffer/A/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Important catalog/Projects/C++/OS/OS_LAB_LAST/WinBuffer/A/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake -f Makefile /nologo cmTC_7782b\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_7782b.dir\build.make /nologo -L                  CMakeFiles\cmTC_7782b.dir\build
-Building CXX object CMakeFiles/cmTC_7782b.dir/CMakeCXXCompilerABI.cpp.obj
-	"D:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_7782b.dir\CMakeCXXCompilerABI.cpp.obj.d --working-dir="D:\Important catalog\Projects\C++\OS\OS_LAB_13\WinBuffer\A\cmake-build-debug\CMakeFiles\CMakeTmp" --filter-prefix="" -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @C:\Users\user\AppData\Local\Temp\nmB155.tmp
-Linking CXX executable cmTC_7782b.exe
-	"D:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_7782b.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_7782b.dir\objects1.rsp @C:\Users\user\AppData\Local\Temp\nmB1C3.tmp
+Run Build Command(s):nmake -f Makefile /nologo cmTC_318a4\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_318a4.dir\build.make /nologo -L                  CMakeFiles\cmTC_318a4.dir\build
+Building CXX object CMakeFiles/cmTC_318a4.dir/CMakeCXXCompilerABI.cpp.obj
+	"D:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_318a4.dir\CMakeCXXCompilerABI.cpp.obj.d --working-dir="D:\Important catalog\Projects\C++\OS\OS_LAB_LAST\WinBuffer\A\cmake-build-debug\CMakeFiles\CMakeTmp" --filter-prefix="" -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @C:\Users\user\AppData\Local\Temp\nmF8FA.tmp
+Linking CXX executable cmTC_318a4.exe
+	"D:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_318a4.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_318a4.dir\objects1.rsp @C:\Users\user\AppData\Local\Temp\nmF958.tmp
 
 
 

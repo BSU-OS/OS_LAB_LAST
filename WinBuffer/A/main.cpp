@@ -33,17 +33,10 @@ void WriteData(const std::string *data) {
 }
 
 int main() {
-    std::string inputData;
+    std::string inputData = "Hi from server\n";
+    WriteData(&inputData);
+    system("pause");
     ReadData(&inputData);
-    std::stringstream input(inputData);
-    int x;
-    std::string str = "";
-    while (input >> x) {
-        str += std::to_string(x + 5);
-        str += ' ';
-    }
-    WriteData(&str);
-    std::ofstream output("TEST.txt");
-    output << inputData << "\nTested!!!";
-    output.close();
+    std::cout << inputData << '\n';
+    system("pause");
 }
